@@ -1,2 +1,2 @@
-# ihzaardi_portofolio
+# PortofolioProject
 Data Analyst Portofolio
